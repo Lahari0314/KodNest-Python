@@ -1,0 +1,5 @@
+name=input()
+age=int(input())
+rating=float(input())
+print(name,age,rating)
+print(type(name),type(age),type(rating))
