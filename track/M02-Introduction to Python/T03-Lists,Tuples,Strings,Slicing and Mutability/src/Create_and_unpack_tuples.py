@@ -1,0 +1,7 @@
+name=input()
+course=input()
+score=int(input())
+student1=(name,course,score)
+print("Name:",student1[0])
+print("Course:",student1[1])
+print("Score:",student1[2])
