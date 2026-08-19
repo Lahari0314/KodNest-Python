@@ -1,0 +1,7 @@
+name=input()
+week=input()
+status=input()
+tup=(name,week,status)
+updated=input()
+tup=(name,updated,status)
+print(tup)
