@@ -1,0 +1,9 @@
+word=input()
+first=int(input())
+second=int(input())
+third=int(input())
+numbers=[first,second,third]
+tup=(first,second,third)
+print(word[1:-1])
+print(numbers[0:2])
+print(tup[::-1])
