@@ -1,0 +1,5 @@
+marks=list(map(int,input().split()))
+aesc=sorted(marks)
+desc=sorted(marks,reverse=True)
+print(*aesc)
+print(*desc)
